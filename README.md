@@ -1,7 +1,7 @@
 
 # eBridge Prescription
 
-<b>Project Heisenberg</b> is a decentralized identity management and pharmaceutical ERP system built atop a permissioned Ethereum consortium network.  This project implements a non-fungible token standard to completely eliminate the <i>risk</i> and <i>implicit costs</i> associated with pharmaceutical script fraud.
+<b>eBridge Prescription</b> is a decentralized identity management and pharmaceutical ERP system built atop a permissioned Ethereum consortium network.  This project implements a non-fungible token standard to completely eliminate the <i>risk</i> and <i>implicit costs</i> associated with pharmaceutical script fraud.
 
 By creating a decentralized smart-contract standard that defines the method for ownership and transferability of a pharmaceutical script we:
   1. <b>Remove</b> the possibility of counterfeit/forged prescriptions is eliminated
